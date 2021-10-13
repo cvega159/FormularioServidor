@@ -8,3 +8,7 @@ Captura de la segunda pagina del formulario
 
 Captura de el formulario de interes
 ![Image text](https://github.com/cvega159/FormularioServidor/blob/main/form2.PNG)
+
+Resumen de todos los campos del fomulario
+
+![Image text](https://github.com/cvega159/FormularioServidor/blob/main/form3.PNG)
