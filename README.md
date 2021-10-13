@@ -1,7 +1,7 @@
 # FormularioServidor
 
 Captura de la primera pagina del formulario
-![Image text](https://github.com/cvega159/FormularioServidor/blob/main/form1.PNG)
+![Image text](https://github.com/cvega159/FormularioServidor/blob/main/formulario.PNG)
 
 Captura de la segunda pagina del formulario
 ![Image text](https://github.com/cvega159/FormularioServidor/blob/main/form1.PNG)
