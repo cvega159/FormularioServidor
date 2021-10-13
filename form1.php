@@ -27,11 +27,6 @@
             <input type="hidden" name="datos[]" value="<?php echo $datos; ?>">
             <input type="submit" value="submit"/>
             </fieldset>
-            <?php 
-                foreach($datos as $indice => $valor){
-                    echo $indice . ' : ' . $valor . '<br>';
-                }
-            ?>
         </form>
     </body>
 </html>
