@@ -5,4 +5,4 @@ Captura de la primera pagina del formulario
 
 
 Captura de el formulario de interes
-![Image text]https://github.com/cvega159/FormularioServidor/blob/main/form2.PNG
+![Image text](https://github.com/cvega159/FormularioServidor/blob/main/form2.PNG)
